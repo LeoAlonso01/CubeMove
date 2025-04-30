@@ -1,0 +1,4 @@
+repository "MoveCube@unity_8B8948FF883F935A97F3@cloud"
+  path "/"
+    br "/main"
+    co "/main"

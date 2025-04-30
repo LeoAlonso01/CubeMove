@@ -1,0 +1,23 @@
+# Archivos generados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Archivos de usuario
+*.suo
+*.user
+*.userprefs
+
+# Archivos de IDE
+.vs/
+.idea/
+
+# Archivos grandes o innecesarios
+*.unitypackage
+*.a
+*.mdb
+*.pdb
